@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>imgviz_ros</name>
+  <version>0.0.0</version>
+  <description>Image Visualization Tools</description>
+  <maintainer email="www.kentaro.wada@gmail.com">Kentaro Wada</maintainer>
+  <author email="www.kentaro.wada@gmail.com">Kentaro Wada</author>
+  <license>MIT</license>
+  <url type="website">https://github.com/wkentaro/imgviz_ros</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
